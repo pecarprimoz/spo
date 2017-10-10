@@ -1,0 +1,3 @@
+/home/primoz/faks/spo/vaje/vaje1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/primoz/faks/spo/vaje/vaje1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/primoz/faks/spo/vaje/vaje1/cmake-build-debug/CMakeFiles/vaje.dir
