@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/vaje2.dir/naloga-1.c.o  -o vaje2 

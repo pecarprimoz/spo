@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/primoz/faks/spo/vaje/vaje2/naloga-1.c
+stdio.h
+-
+fcntl.h
+-
+unistd.h
+-
+stdlib.h
+-
+
